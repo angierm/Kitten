@@ -3,6 +3,9 @@ body {
  background: url("images/dawn.png"); /*Primer paisaje-background*/
  background-repeat: no-repeat;
  background-size:cover;
+ margin: 340px 10px;
+ padding: 0;
+ width: 100%;
 
 }
 
