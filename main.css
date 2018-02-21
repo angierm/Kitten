@@ -1,6 +1,6 @@
 
 body {
- background: url("images/dawn.png"); /*Primer paisaje-background*/
+ background: url("images/dawn.png")center fixed; /*Primer paisaje-background*/
  background-repeat: no-repeat;
  background-size:cover;
  margin: 340px 10px;
